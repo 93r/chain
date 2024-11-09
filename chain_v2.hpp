@@ -109,7 +109,6 @@ class chain {
 		  }
 		}
 		return *this;
-	        return *this;
 	      }
 	      value_type& operator*() const
 	      {
